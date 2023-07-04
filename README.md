@@ -1,4 +1,4 @@
-## Olá, sou o Lincon Vinicius, estou iniciando na área de programação!
+## Olá, sou o Lincon Vinicius, estou iniciando na área de Testes e QA!
 
 <div align="center">
   <a href="https://github.com/linconvinicius">
