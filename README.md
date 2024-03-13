@@ -1,4 +1,4 @@
-## Olá, sou o Lincon Vinicius, sou analista de teste de software/QA!
+## Olá, sou o Lincon Vinicius, analista de teste de software/QA!
 
 <div align="center">
   <a href="https://github.com/linconvinicius">
