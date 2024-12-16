@@ -7,17 +7,10 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lincon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Lincon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Lincon-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Lincon-CY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/>
-  <img align="center" alt="Lincon-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
-  <img align="center" alt="Lincon-Robot" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png"/>
-          
-          
-  </div><br>
+  <img align="center" alt="Lincon-Skills" height="250" width="250" src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,mongodb,nodejs,docker,postman&theme=light"/>        
+  </div>
 <div>
-<a href="https://www.instagram.com/liinconvinicius/" target="_blank"><img width="122" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lvinipg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
-  <a href="https://www.linkedin.com/in/lincon-vinicius/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/liinconvinicius/" target="_blank"><img width="48" src="https://skillicons.dev/icons?i=instagram&theme=light" target="_blank"></a>
+  <a href = "mailto:lvinipg@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" destino ="_blank"></a>
+  <a href="https://www.linkedin.com/in/lincon-vinicius/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=light"></a>
 </div>
